@@ -18,7 +18,9 @@ VS Code has great features out of the box but now you and the community can exte
 
 ![marketplace](images/0_10_0/marketplace.png)
 
-## Extension Marketplace
+## ```json
+Extension
+``` Marketplace
 
 Find and install cool extensions by searching VS Code's public [Extension Marketplace](/docs/editor/extension-marketplace.md).  There you'll find new themes, snippets, languages and tools.
 
