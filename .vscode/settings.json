@@ -30,5 +30,6 @@
     "rainbow_csv.highlight_rows": true,
     "string-autocomplete.config": [
 
-    ]
+    ],
+    "github.copilot.chat.codesearch.enabled": true
 }
