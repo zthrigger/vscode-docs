@@ -31,5 +31,7 @@
     "string-autocomplete.config": [
 
     ],
-    "github.copilot.chat.codesearch.enabled": true
+    "github.copilot.chat.codesearch.enabled": true,
+    "inlineChat.lineEmptyHint": true,
+    "inlineChat.finishOnType": true
 }
